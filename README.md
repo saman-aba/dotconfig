@@ -2,9 +2,9 @@
 Configurations for various tools
 
 # Shortcut
-[vim link](.vimrc),
-[clang-format](.clang-format),
-[emacs link](.emacs),
-[ctags link](ctags.md),
+* [vim](.vimrc)
+* [clang-format](.clang-format)
+* [emacs](.emacs)
+* [ctags](ctags.md)
 
 
