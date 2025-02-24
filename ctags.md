@@ -3,6 +3,14 @@
 ```
 ctags -R --languages=C++ --c++-kinds=+p --fields=+iaS --extras=+q .
 ```
+```
+ctags -R --languages=C++ 	\
+	--c++-kinds=+px		\
+	--fields=+ialKS 	\
+	--extras=+q 		\
+	--output-format=e-ctags \
+	.
+```
 
 ## ctags c 
 ```
